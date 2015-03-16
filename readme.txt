@@ -13,3 +13,5 @@ test branch with no-ff !
 test stage 1 !!
 
 test stash a !!
+
+test push/pull a !!
